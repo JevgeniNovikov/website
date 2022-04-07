@@ -1,0 +1,257 @@
+.block-top{
+    height: 100px;
+    
+    border-radius: 15px;
+    background: #7c7c7c;
+    margin-top: auto;
+}
+.logo123{
+    background: url('../swp/logo123.png') no-repeat;
+    height: 90px;
+    width: 111px;
+    border-radius: 15px;
+    position: absolute;
+    margin-top: 5px;
+    margin-left: 5px;
+    box-shadow: 5px 5px 5px black;
+}
+.bigbtn{
+    height: 90px;
+    width: 190px;
+    border-radius: 5px;
+    background: #9d84bd; 
+    display: inline-block;
+    margin-top: 5px;
+    margin-left:0px;
+    position:relative;
+    left: 180px;
+    border:5px;
+    box-shadow: 5px 5px 5px black;
+}
+div a {
+    padding-left: 5px;
+    height: 0px;
+    display: inline-block;
+}
+.block-top-menu{
+    padding-left: 35px; 
+    font-size: 40px;
+    font-weight: 700;
+    letter-spacing: .6px;
+    color: #333;
+    display: inline-block;
+    position:relative;
+    bottom: 60px;
+}
+.btnT{
+    height: 50px;
+    width: 187px;
+    border-radius: 5px;
+    background: #9d84bd; 
+    display: inline-block;
+    bottom: 30px;
+    position:relative;
+    left: 182px;
+    border:5px;
+    box-shadow: 5px 5px 5px black;
+}
+.block-top-btn{
+    padding-left: 30px; 
+    font-size: 20px;
+    font-weight: 700;
+    letter-spacing: .6px;
+    color: #333;
+    display: inline-block;
+    position:relative;
+    bottom: 30px;
+}
+.block-header{
+    height: 280px;
+}
+.soderzimoje-centra{
+    width: 900px;
+    display: inline-block;
+    position:relative;
+    padding-left: 200px;
+}
+
+
+h1{
+    width:1000px;
+    height: 80px;
+    padding-left: 200px;
+    font-size: 80px;
+    font-weight: 700;
+    letter-spacing: .6px;
+    color: #333;
+    font-family: 'Rubik Wet Paint', cursive;
+    position:relative;
+    bottom: 200px;
+}
+.fraze p{
+    bottom: 200px;
+    font-size: 35px;
+    color: #333;
+    padding-left: 200px;
+    bottom: 200px;
+    position:relative;
+}
+.block-left-menue{
+    height: 500px;
+    width:200px;
+    border-radius: 15px;
+    background: #968282;
+    margin-top: auto;
+    bottom: 200px;
+    position:relative;
+}
+.btnL{
+    height: 100px;
+    width: 190px;
+    border-radius: 5px;
+    background: #9d84bd; 
+    display: inline-block;
+    bottom: 0px;
+    top: 5px;
+    position:relative;
+    left: 2.5px;
+    border:5px;
+    box-shadow: 5px 5px 5px black;
+}
+
+.block-left-btn123{
+    padding-left: 40px; 
+    font-size: 30px;
+    font-weight: 700;
+    letter-spacing: .6px;
+    color: #333;
+    display: inline-block;
+    position:relative;
+    bottom: 75px;
+    font-family: 'Rubik Moonrocks', cursive;
+}
+.soderzimoje-centra{
+    width:1000px;
+    padding-left: 200px;
+    font-size: 16px;
+    font-weight:20;
+    color: rgb(0, 0, 0);
+    font-family: 'Rubik Wet Paint', cursive;
+    position:relative;
+}
+.goToPages{
+    width:1000px;
+    padding-left: 600px;
+    position:relative;
+}
+
+.block-footer-btn{
+    font-size: 25px;
+    font-weight: 700;
+    letter-spacing: .6px;
+    color: #333;
+    display: inline-block;
+    position:relative;
+    bottom: 0px;
+}
+.block-center-page2{
+width:1000px;
+padding-left: 200px;
+font-size: 16px;
+font-weight:20;
+color: rgb(0, 0, 0);
+font-family: 'Roboto', sans-serif;
+position:relative;
+}
+.soderzimoje-centra-page2{
+    width:1000px;
+    padding-left: 200px;
+    font-size: 16px;
+    font-weight:20;
+    color: rgb(0, 0, 0);
+    font-family: 'Roboto', sans-serif;
+    position:relative;
+}
+
+.block-center-page3{
+    width:1000px;
+    padding-left: 200px;
+    font-size: 16px;
+    font-weight:20;
+    color: rgb(0, 0, 0);
+    font-family: 'Roboto', sans-serif;
+    position:relative;
+    }
+    .soderzimoje-centra-page3{
+        width:1000px;
+        padding-left: 200px;
+        font-size: 16px;
+        font-weight:20;
+        color: rgb(0, 0, 0);
+        font-family: 'Roboto', sans-serif;
+        position:relative;
+    }
+    div a{
+        text-decoration: none;
+    }
+    .soderzimoje-centra-page5{
+        width:700px;
+        padding-left: 200px;
+        font-size: 20px;
+        font-weight:20;
+        color: rgb(0, 0, 0);
+        font-family: 'Times New Roman', Times, serif;
+        position:relative;
+    }
+    .soderzimoje-centra-Cont{
+        width:700px;
+        padding-left: 200px;
+        font-size: 20px;
+        font-weight:20;
+        color: rgb(0, 0, 0);
+        font-family: 'Times New Roman', Times, serif;
+        position:relative;
+    }
+    .photo{
+        background: url('../swp/Cat03.jpg') no-repeat;
+        height: 189px;
+        width: 173px;
+        border-radius: 15px;
+        position: relative;
+        bottom: 120px;
+    }
+    .Heading{
+        width:700px;
+        color: rgb(32, 30, 30);
+        font-size: 45px;
+        font-weight:20;
+        font-family: 'Times New Roman', Times, serif;
+
+    }
+    .tabl1{
+
+        margin-top:50px ;
+        margin-left: 200px;
+    }
+    .block-footer-btn-tbl{
+        padding-left: 0px; 
+        font-size: 16px;
+        font-weight: 700;
+        letter-spacing: .6px;
+        color: #333;
+        display: inline-block;
+        position:relative;
+        bottom: 0px; 
+        margin-left: 250px;
+    }
+    .block-footer-btn-lin{
+        font-size: 16px;
+        font-weight: 700;
+        letter-spacing: .6px;
+        color: #333;
+        display: inline-block;
+        position:relative;
+        bottom: 0px;
+        margin-top: 25px;
+        margin-left: 35px;
+    }

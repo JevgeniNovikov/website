@@ -1,0 +1,85 @@
+#Heading{
+    font-size: 26px;
+    font-weight: 700;
+    letter-spacing: .6px;
+    color: #333;
+    padding-left: 250px;
+    position: relative;
+}
+.left-part{
+    width: 600px;
+    padding-top: 50px;
+    position: absolute;
+
+}
+.right-part{
+    width: 1200px;
+    padding-left:600px;
+    position: relative;
+    padding-top: 0px;
+}
+.pho1{
+    background: url('../swp/starsis.jpg') no-repeat;
+    height: 240px;
+    width: 376px;
+    position: relative;
+    bottom: 0px;
+    padding-top: 10px;
+}
+.pho2{
+    background: url('../swp/teh1.jpg') no-repeat;
+    height: 259px;
+    width: 194px;
+    position: relative;
+    bottom: 0px;
+    padding-top: 10px;
+}.pho3{
+    background: url('../swp/teh2.jpg') no-repeat;
+    height: 173px;
+    width: 291px;
+    position: relative;
+    padding-top: 10px;
+    bottom: 0px;
+}
+.text44{
+    font-size: 54px;
+    font-weight: 700;
+    letter-spacing: 2 px;
+    color: #333;
+    position:relative;
+    width: 291px;
+    font-family: 'Rubik Moonrocks', cursive;
+}
+.text45{
+    font-size: 16px;
+    font-weight: 700;
+    letter-spacing: .6px;
+    color: #333;
+    position:relative;
+    width: 291px;
+    font-family: 'Mukta', sans-serif;
+}
+.block-footer-btn-pht{
+    font-size: 56px;
+    font-weight: 700;
+    letter-spacing: .6px;
+    color: #333;
+    display: inline-block;
+    position:relative;
+    bottom: 0px;
+    margin-top: 100px;
+    margin-left: 550px;
+    font-family: 'Rubik Puddles', cursive;
+}
+.block-footer-btn-smpg{
+    font-size: 56px;
+    font-weight: 700;
+    letter-spacing: .6px;
+    color: #333;
+    display: inline-block;
+    position:relative;
+    bottom: 0px;
+    margin-top: 250px;
+    margin-left: 550px;
+    font-family: 'Rubik Puddles', cursive;
+}
